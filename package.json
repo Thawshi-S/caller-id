@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "telebot": "^1.4.1",
+    "truecallerjs": "^1.1.1",
+    "utf8": "^3.0.0"
+  }
+}
